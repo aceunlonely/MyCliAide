@@ -1,0 +1,23 @@
+{
+  "name": "mycliaide",
+  "version": "0.0.1",
+  "description": "my command line aide to help you save effort",
+  "main": "lib/aide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceunlonely/MyCliAide.git"
+  },
+  "keywords": [
+    "commander",
+    "aide"
+  ],
+  "author": "apporoad",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/aceunlonely/MyCliAide/issues"
+  },
+  "homepage": "https://github.com/aceunlonely/MyCliAide#readme"
+}
