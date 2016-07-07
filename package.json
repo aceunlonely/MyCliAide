@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aceunlonely/MyCliAide/issues"
   },
-  "homepage": "https://github.com/aceunlonely/MyCliAide#readme"
+  "homepage": "https://github.com/aceunlonely/MyCliAide#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
